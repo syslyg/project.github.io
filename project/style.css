@@ -1,0 +1,15 @@
+h1 {
+    font-family:Palatino Linotype;
+}
+
+div.prow {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;  
+    align-items: flex-start; 
+    gap: 10px;
+}
+
+img {
+    size-adjust: 0.1;
+}
